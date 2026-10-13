@@ -38,3 +38,19 @@ Operating over the continuous-discrete state space $L^2(\mathbb{R}^4) \otimes \m
 ├── Minoan_Syntax_Draft_3.pdf            # Full peer-review ready preprint (Zenodo v3)
 └── scripts/
     └── epigraphic_analyzer.py         # Hilbert space bigram & entropy calculation engine
+```
+
+---
+
+```text
+@misc{gray2026aegean,
+  author       = {Gray, Benjamin Edward},
+  title        = {Structural Decipherment of Aegean Scripts via Dual-Operator Mechanics: A Unified Framework for Phonology, Syntax, and Metrology in Cretan Hieroglyphic, Linear A, and the Phaistos Disc},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {v3},
+  doi          = {10.5281/zenodo.23107988},
+  url          = {[https://doi.org/10.5281/zenodo.23107988](https://doi.org/10.5281/zenodo.23107988)}
+```
+
+---
